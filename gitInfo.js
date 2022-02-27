@@ -32,6 +32,8 @@ const gitHubDefinition = 'Github is a website where you take your git repositori
 
 //CODE HERE
 
+const gitInitDefinition = '"git init" is used to create a local repository wher the file is stored.'
+
 //////////////////PROBLEM 4////////////////////
 /*
     Create a variable called 'gitCloneDefinition'.  
