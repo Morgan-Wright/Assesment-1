@@ -52,6 +52,8 @@ const gitCloneDefinition = 'Copies a repo from Github and saves it localy.'
 
 //CODE HERE
 
+const gitStatusDefinition = 'tells about the current repo.'
+
 //////////////////PROBLEM 6////////////////////
 /*
     Create a variable called 'gitAddDefinition'.  
