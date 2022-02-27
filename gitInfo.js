@@ -67,6 +67,8 @@ const gitStatusDefinition = 'tells about the current repo.'
 
 const gitAddDefinition = 'adds files to the current repo.'
 
+const gitAddCode = 'git add <file>'
+
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
@@ -77,6 +79,8 @@ const gitAddDefinition = 'adds files to the current repo.'
 */
 
 //CODE HERE
+
+const gitCommitDefinition = 
 
 
 //////////////////PROBLEM 8////////////////////
