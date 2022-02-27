@@ -91,3 +91,5 @@ const gitCommitCode = 'git commit -m "Words"'
 */
 
 //CODE HERE
+
+const gitPushDefinition = 'git push takes the local repo and pushes it into Github.'
