@@ -80,8 +80,9 @@ const gitAddCode = 'git add <file>'
 
 //CODE HERE
 
-const gitCommitDefinition = 
+const gitCommitDefinition = 'creaate a snapshot of the files currently being tracked.'
 
+const gitCommitCode = 'git commit -m "Words"'
 
 //////////////////PROBLEM 8////////////////////
 /*
