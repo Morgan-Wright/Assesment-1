@@ -7,9 +7,13 @@
 /*
     Create a variable called 'gitDefinition'.
     It should be a string containing your best definition of what Git is.
+
 */
 
 //CODE HERE
+
+const gitDefinition = 'Git is a cloud server where you can upload your code to the cloud and it will log every comment when it is pushed from local repo to remote repo.'
+
 
 //////////////////PROBLEM 2////////////////////
 /*
