@@ -12,8 +12,7 @@
 
 //CODE HERE
 
-const gitDefinition = 'Git is a cloud server where you can upload your code to the cloud and it will log every comment when it is pushed from local repo to remote repo.'
-
+const gitDefinition = 'Git is a version control sysytem where you track changes to code as you program. it helps prevent bugs and loss of code.'
 
 //////////////////PROBLEM 2////////////////////
 /*
@@ -22,6 +21,8 @@ const gitDefinition = 'Git is a cloud server where you can upload your code to t
 */
 
 //CODE HERE
+
+
 
 //////////////////PROBLEM 3////////////////////
 /*
