@@ -42,6 +42,8 @@ const gitInitDefinition = '"git init" is used to create a local repository wher 
 
 //CODE HERE
 
+const gitCloneDefinition = 'Copies a repo from Github and saves it localy.'
+
 //////////////////PROBLEM 5////////////////////
 /*
     Create a variable called 'gitStatusDefinition'.  
