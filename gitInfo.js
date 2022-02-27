@@ -22,7 +22,7 @@ const gitDefinition = 'Git is a version control sysytem where you track changes 
 
 //CODE HERE
 
-
+const gitHubDefinition = 'Github is a website where you take your git repositories and upload/download them to/from the cloud.'
 
 //////////////////PROBLEM 3////////////////////
 /*
